@@ -1,3 +1,46 @@
 @import "variables";
 @import "main";
 @import "nav";
+
+
+// MAPS
+$redes: (
+    twitter: #339be0,
+    facebook: #0026a2,
+    instragram: #c000f6,  
+);
+
+@each $red, $color in $redes {
+        .red-#{$red}{
+            color: $color;
+        }
+}
+
+
+
+//  extend
+
+.p-viyela {
+    font-size: 20px;
+    padding-left: 10px; 
+    margin: 0 auto;
+                    }
+  
+  .imgviyela {
+     @extend .p-viyela;
+    width: 350px;
+    border: solid;
+    border-radius: 10px;
+    margin: 30px; }
+
+//  Mixins
+
+@mixin size{
+    width: 350px;
+    margin: 30px;
+    border-radius: 10px;
+    }
+
+.imgsarga{
+    @include size;
+} 

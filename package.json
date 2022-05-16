@@ -13,5 +13,13 @@
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.16"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meszaros45/proyecto-coder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Meszaros45/proyecto-coder/issues"
+  },
+  "homepage": "https://github.com/Meszaros45/proyecto-coder#readme",
   "description": ""
 }

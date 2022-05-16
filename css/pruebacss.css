@@ -141,7 +141,7 @@ ul a {
   border: solid black;
   margin: 1rem; }
 
-.p-viyela {
+.p-viyela, .imgviyela {
   font-size: 20px;
   padding-left: 10px; }
 
@@ -349,3 +349,28 @@ header h1 {
 
 .li-header {
   text-align: center; }
+
+.red-twitter {
+  color: #339be0; }
+
+.red-facebook {
+  color: #0026a2; }
+
+.red-instragram {
+  color: #c000f6; }
+
+.p-viyela, .imgviyela {
+  font-size: 20px;
+  padding-left: 10px;
+  margin: 0 auto; }
+
+.imgviyela {
+  width: 350px;
+  border: solid;
+  border-radius: 10px;
+  margin: 30px; }
+
+.imgsarga {
+  width: 350px;
+  margin: 30px;
+  border-radius: 10px; }
