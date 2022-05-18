@@ -1,4 +1,4 @@
-<!-- CAMBIOS EN TITTLES -->
+<-- CAMBIOS EN TITTLES -->
 
 index.html : Cambio de titulo
 contacto.html :Cambio de titulo
@@ -6,7 +6,7 @@ mayoristas : cambio de titulo
 shatoosh.html : cambio de titulo
 
 
-<!-- extend mixins y maps -->
+<-- extend mixins y maps -->
 
 ° Agregue un extend en un parrafo y combine con una imagen
 
@@ -23,7 +23,7 @@ shatoosh.html : cambio de titulo
     border-radius: 10px;
     margin: 30px; }
 
-<!-- MAPS -->
+<-- MAPS -->
 
 °Quise agregar un maps para cambiar los colores de mis redes sociales, por ahora esta instagram solo
 
@@ -40,7 +40,7 @@ $redes: (
 }
 
 
-<!-- MIXIN -->
+<-- MIXIN -->
 
 ° Agregue un mixin a una imagen con los siguientes valores :
 
